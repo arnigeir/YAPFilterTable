@@ -1,6 +1,6 @@
 /* ************************************************
 jQuery table filtering plugin
-Copyright 2011,  G Sigurðsson  (arni.geir.sigurdsson@gmail.com)
+Copyright 2011,  G Sigurdsson  (arni.geir.sigurdsson@gmail.com)
 
 Licensed under GPL Version 2.
 
